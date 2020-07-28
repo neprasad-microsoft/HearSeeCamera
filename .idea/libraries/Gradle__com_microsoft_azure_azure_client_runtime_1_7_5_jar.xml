@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.azure:azure-client-runtime:1.7.5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure/azure-client-runtime/1.7.5/b11d6fe687ccd52627a0b8ce6b9cc1692ea66b01/azure-client-runtime-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure/azure-client-runtime/1.7.5/abe024c00b35312475c69ade8a475d7b9fbdf510/azure-client-runtime-1.7.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure/azure-client-runtime/1.7.5/8696eadcc5d0b55bac6d2084c5f39985955cdd4f/azure-client-runtime-1.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
